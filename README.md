@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[GitHub Streak](https://streak-stats.demolab.com?user=HongZhangLim&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+[HongZhangLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongZhangLim&show_icons=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongZhangLim&layout=compact)
+
+
 <!--
 **HongZhangLim/HongZhangLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
