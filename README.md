@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HongZhangLim&theme=highcontrast)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongZhangLim&layout=compact&theme=highcontrast)
