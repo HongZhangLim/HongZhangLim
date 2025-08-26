@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HongZhangLim)](https://git.io/streak-stats)
-
-![HongZhangLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongZhangLim&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongZhangLim&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=HongZhangLim&theme=highcontrast)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongZhangLim&layout=compact&theme=highcontrast)
 
 
 
